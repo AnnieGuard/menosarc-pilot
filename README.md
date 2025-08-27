@@ -1,117 +1,79 @@
-# MenoSarc™ — Cut Late-Stage Sarcoma Costs by 30% in Post-Menopausal Women
+# MenoSarc™ Early Detection Pilot
 
-A free, 6-month manual pilot for payers and health systems.  
-No contracts. No integration. Just measurable ROI.
-
----
-
-## The Financial Opportunity
-
-Late-stage sarcoma care can cost 3–5× more than early-stage intervention due to:
-- Complex surgery with reconstruction
-- Radiation and multi-line systemic therapy
-- Increased recurrence and readmission rates
-
-By detecting aggressive post-menopausal sarcomas before they present clinically, MenoSarc enables:
-- Earlier, lower-cost interventions
-- Reduced recurrence-related spend
-- Improved outcomes for high-cost oncology patients
-
-Estimated savings: $85K–$120K per late-stage case avoided  
-(based on US payer oncology cost benchmarks)
+### Quick Links
+- [Background](#background)  
+- [Information for Pilot Participants](#information-for-pilot-participants)  
+- [What Patients Receive](#what-patients-receive)  
+- [Model Details](#model-details)  
+- [Cohort Timeline (September 2025)](#cohort-timeline-september-2025)  
+- [Join a Cohort](#join-a-cohort)
 
 ---
 
-## The Challenge
+## Background
+The **MenoSarc™ Early Detection Pilot** aims to transform sarcoma detection by closing a critical blind spot in oncology: the **peri-menopause window (ages 45–51)**.  
 
-Post-menopausal women with sarcoma often present late, even when the disease is biologically aggressive.  
-Traditional staging misses these early, costly cases.
+From analysis of **5,000+ sarcoma cases**, AnnieGuard discovered that tumors classified as “low-risk” Stage I in women 45–51 are biologically Stage III**. These hidden late-biology cases progress silently and drive **$300K–$400K per patient in catastrophic costs** when missed.  
 
----
-
-## Our Evidence Base
-
-From 5,187 patient records across multi-institutional U.S. cohorts, our research shows:
-- Menopause acts as a biological switch in sarcoma — changing tumor subtype, mutation load, and treatment eligibility.
-- 65.6% of extremity sarcomas in post-menopausal women are diagnosed late-stage.
-- Significant rise in genomic instability (FGA) post-menopause.
-- 72% of leiomyosarcoma cases occur post-menopause.
-- High TMB and low tumor purity are strongly linked to aggressive progression.
+By embedding **AnnieGuard’s MenoSarc™** into existing EHR and payer workflows, the pilot delivers **biological risk visibility months to years earlier**, creating a new standard for **precision oncology and value-based rare-disease care**.  
 
 ---
 
-## How the Pilot Works
+## Information for Pilot Participants
+Organizations selected for the MenoSarc™ Pilot will:  
+- **Contribute retrospective de-identified EHR datasets** (100–300 peri-menopausal women with soft tissue sarcoma).  
+- Receive a **population-level report within 7 days**, including:  
+  - Patient-level sarcoma risk scores  
+  - Identification of **hidden Stage III/IV cases** within early-stage diagnoses  
+  - Modeled **cost-avoidance estimates** ($200K–$300K avoided per patient → ~$2M+ per 100 cases)  
+  - Alignment with **CMS quality metrics** (STAR, HEDIS, MIPS, ACO shared savings)  
+- **Validate real-world ROI** through retrospective analysis.  
+- **Prepare for automation**: the pilot is delivered manual-first to build trust, then scales seamlessly to full EHR-native deployment.  
 
-Day 1 – Email deidentified case data (age, sex, diagnosis, basic labs, optional tumor features)  
-Day 3 – Receive your MenoSarc Risk Report: risk score, key findings, clinical recommendations  
-
-48-hour turnaround for all cases.
-
----
-
-## Payer Workflow & Patient Journey Stage
-
-Trigger Point:  
-A claims analyst or case manager flags a suspected or confirmed sarcoma case in a post-menopausal woman.  
-This typically happens at first diagnostic confirmation (pathology report) or first oncology referral — the earliest point where intervention can still shift stage and cost trajectory.
-
-Action:  
-- Extract the already-available clinical and pathology fields from your EHR or claims system (see "Data We Need" below).  
-- Send deidentified case data to AnnieGuard via secure email.  
-- Receive a MenoSarc Risk Report within 48 hours, including:  
-  - Risk stratification  
-  - Key biological drivers  
-  - Cost-savings projection based on early intervention potential  
-
-Use:  
-- Share results with the treating care team  
-- Adjust treatment planning to avoid late-stage costs  
-- Track ROI over the pilot period to support leadership buy-in
+Participation is **voluntary** and available to **ACOs, Medicare Advantage Organizations (MAOs), Medicaid Agencies (MAs), and commercial payers** interested in advancing rare cancer detection, cost savings, and equity outcomes.  
 
 ---
 
-## Data We Need (Deidentified)
-
-- Patient ID (internal code)  
-- Age  
-- Sex  
-- Diagnosis (e.g., leiomyosarcoma)  
-- Diagnosis date  
-- Tumor size  
-- Grade  
-- Tumor Mutational Burden (TMB) / MSI  
-- Tumor purity  
-- Genomic Instability Score (FGA)  
-- Prior treatments  
+## What Patients Receive
+Patients whose records are included in the pilot will **not incur any additional costs**. Participating organizations can expect:  
+- **Earlier identification of sarcoma risk** at the first sign of unexplained lumps, swelling, or pain.  
+- **Personalized risk stratification** that incorporates molecular (VEGF, CDK4/6, PRAME, FBP2) and demographic factors (age, sex, menopause status).  
+- **Clear, patient-centered care pathways**, aligning diagnosis and treatment with patient preferences.  
+- **Equity impact**: proactive detection for women 40+ and underserved populations disproportionately affected by late-stage sarcoma.  
 
 ---
 
-## Pilot Offer
+## Model Details
+**Goals of the MenoSarc™ Pilot:**  
+- Place **early detection and prevention** at the center of rare cancer care.  
+- **Integrate novel biology-driven risk model** (MenoSarc™) into existing clinical workflows.  
+- **Reduce catastrophic late-stage sarcoma spend** by enabling intervention in the menopause “switch” window (45–51).  
+- **Support value-based care** and **protect ACO shared savings pools**.  
+- Advance **equity in rare cancers**, particularly for peri- and post-menopausal women.  
 
-FREE 6-month pilot includes:
-- Unlimited case submissions
-- 48-hour turnaround
-- Monthly insights reports
-- End-of-pilot ROI summary
-
-Your investment: $0
-
----
-
-## Why This Works
-
-- Start immediately — no IT delays  
-- Keep control — we only provide insights  
-- No HIPAA risk — deidentified data only  
-- Build financial and clinical evidence for leadership buy-in
+**Design Elements:**  
+- EHR-integrated retrospective analysis (manual-first).  
+- Population-level risk reports with financial + quality metrics.  
+- Seamless pathway to automation via secure **Azure Container Registry deployment**.  
+- Supports **alignment with CMS pilots** such as EOM, ACO REACH, and WISeR.  
 
 ---
 
-## Contact
+## Cohort Timeline (September 2025)
 
-Email: info@annieguard.com  
-Web: [www.annieguard.com/menosarc](http://www.annieguard.com/menosarc)  
+| Cohort | Application Opens | Application Deadline | Data Submission Window | Analysis Period | Population-Level Report |
+|--------|------------------|----------------------|------------------------|----------------|--------------------------|
+| **Cohort 1** | Sept 1, 2025 | Sept 8, 2025  | Sept 10–12, 2025 | Sept 13–19, 2025 | Sept 20, 2025 |
+| **Cohort 2** | Sept 9, 2025 | Sept 16, 2025 | Sept 18–20, 2025 | Sept 21–27, 2025 | Sept 28, 2025 |
+| **Cohort 3** | Sept 17, 2025 | Sept 24, 2025 | Sept 26–28, 2025 | Sept 29 – Oct 5, 2025 | Oct 6, 2025 |
 
 ---
 
-Product of AnnieGuard — building precision threat detection for rare cancers.
+## Join a Cohort  
+Organizations interested in participating in the **September 2025 MenoSarc™ Pilot** can express interest to join a cohort by emailing:  
+
+📧 **[tiara@annieguard.com](mailto:tiara@annieguard.com)**  
+
+---
+
+Would you like me to **take your uploaded MenoSarc PDF deck** and actually **convert it into this GitHub-style README.md file**, embedding the new **September cohort timeline** section directly into it?
