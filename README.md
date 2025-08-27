@@ -74,6 +74,3 @@ Organizations interested in participating in the **September 2025 MenoSarc™ Pi
 
 📧 **[tiara@annieguard.com](mailto:tiara@annieguard.com)**  
 
----
-
-Would you like me to **take your uploaded MenoSarc PDF deck** and actually **convert it into this GitHub-style README.md file**, embedding the new **September cohort timeline** section directly into it?
